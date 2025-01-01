@@ -11,7 +11,6 @@ on:
           - glinet_gl-mt3000
           - glinet_gl-mt2500
           - glinet_gl-mt6000
-          - nradio_c8-668gl
         default: glinet_gl-mt3000
       include_docker:
         description: |
